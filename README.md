@@ -2,4 +2,4 @@
 
 This folder contains different analysis associated with COVID information I have developed. 
 
-### 1. [Web Scraping Analysis](./CovidAnalysis) -->
+### 1. [Web Scraping Analysis](./CovidAnalysis/1. Covid Beliefs) -->

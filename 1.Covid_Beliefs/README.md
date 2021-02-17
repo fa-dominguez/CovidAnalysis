@@ -11,6 +11,3 @@
 
   --> This file contains the python code used to create two regression analysis in order to understand if there was any variable statistically significative that could help to people's belief about COVID
   
-  ### 3. [Mobility_Trend](./Datos_3_graph.ipynb)
-  
-  --> This file contains the python code used to create a regression model between social mobility and COVID in the first months that COVID hit US.

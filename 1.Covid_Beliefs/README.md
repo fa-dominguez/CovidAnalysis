@@ -7,7 +7,7 @@
       
   --> This file contains the python code used to create all the graphics that help me to understand the dataset better. 
       
-### 2. [Regression_Analysis](./Regression_Analysis.ipynb)
+### 2. [Regression_Analysis](./Regression_Analysis.py)
 
   --> This file contains the python code used to create two regression analysis in order to understand if there was any variable statistically significative that could help to people's belief about COVID
   
